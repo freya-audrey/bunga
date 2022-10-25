@@ -69,7 +69,7 @@ header {
 .top-wrapper {
     padding: 180px 0 100px 0;
     color: #FFFFFF;
-    background-image: url("../images/top_en.png");
+    background-image: url("top_en.png");
     background-size: cover;
     text-align: center;
 }
